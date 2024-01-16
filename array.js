@@ -6,3 +6,9 @@
 
 // friendsAge.pop();
 // console.log(friendsAge);
+
+// var teaLine = ["Palam PM", "kamal", "Salam", "Balam", "Haetu"];
+// var part = teaLine.slice(1, 4);
+
+// console.log(part);
+// console.log(teaLine);
