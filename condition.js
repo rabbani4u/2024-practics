@@ -1,8 +1,13 @@
 //IF-ELSE Condition
 
-var price = 12;
-if (price < 12) {
-  console.log("I will eat Biscute");
-} else {
-  console.log("cha ia better");
-}
+// var getJob = true;
+// var saving = 50000000;
+// if (getJob && saving > 200000) {
+//   console.log("Lets search pattri");
+// } else {
+//   console.log("No marrige");
+// }
+
+//
+var date = new Date();
+console.log(date);
